@@ -1,2 +1,2 @@
-## Registro de búsqueda y triage
+## 🔎 **Registro de búsqueda y triage**
 
