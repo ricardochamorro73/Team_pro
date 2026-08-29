@@ -17,7 +17,7 @@ Somos el **Team_pro** del curso **Procesos de innovación en ingeniería**, conf
 | <img width="297" height="357" alt="image" src="https://github.com/user-attachments/assets/a8146a37-5526-450c-a442-b89c9e3bc89d" /> | Anthony Sebastian Matos Tapia | Diseñador | Diseño de prototipos, técnicas de ideación, diseño de presentaciones |
 | <img width="290" height="341" alt="image" src="https://github.com/user-attachments/assets/698a463e-4086-44b4-882b-8ead714f9457" /> | Ailen Rosario Baldera Echevarria | Encargado de documentación | Comunicación científica, redacción técnica |
 | <img width="192" height="241" alt="Jwl proyecto" src="https://github.com/user-attachments/assets/daadf2b7-cf94-44a4-aedf-5da7545a8006" /> | Joel David Mendoza Choquepata | Programador | Programacion, análisis de datos |
-| <img width="272" height="291" alt="image" src="https://github.com/user-attachments/assets/74e29a48-19ec-42f1-86c2-5cdb29209215" /> | Sergio Andre Garcia Zapata | Modelador | Celda 4 |
+| <img width="272" height="291" alt="image" src="https://github.com/user-attachments/assets/74e29a48-19ec-42f1-86c2-5cdb29209215" /> | Sergio Andre Garcia Zapata | Modelador | Automatización de procesos y visualización de información |
 
 ## 📌 **Resumen Final**
 Este README resume quiénes somos, qué roles nos hemo distribuido y qué nos motiva.
