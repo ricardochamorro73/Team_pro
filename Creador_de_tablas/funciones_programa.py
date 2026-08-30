@@ -57,7 +57,9 @@ def crear_informacion_tabla(columnas_tabla)->dict:
     while True:    
         for columna in columnas_tabla:
             contenido:str = input(f'\nQue informacion desea agregar a la fila {fila} de la columna "{columna}"?:\n')
-            informacion_tabla[columna] = [contenido] if informacion_tabla.get(columna,None) == None else informacion_tabla[columna].append(contenido)
+            if columna not in informacion_tabla:
+                informacion_tabla[columna] = []
+                informacion_tabla[columna].append(contenido)
 
         if not continuar(mensaje='Quieres agregar otra fila a tu tabla?(s/n): '):
             break
