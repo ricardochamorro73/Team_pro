@@ -1,4 +1,5 @@
 Para usar el programa se requiere de 2 librerias: Pandas y Tabulate
+Tambien python obviamente.
 
 Para instalar tabulate y pandas prueba con:
 - python -m pip install pandas tabulate
