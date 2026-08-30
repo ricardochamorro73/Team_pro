@@ -3,7 +3,7 @@
 ### Pregunta y términos
 
 | Equipo | Carrera | Reto o tema inicial | ODS candidato |
-| --- | --- | --- | --- | 
+| :---: | :---: | :---: | :---: | 
 | Team Pro | Ingeniería Biomédica | La ausencia de un sistema nacional de gestión biomédica y tecnovigilancia que ha permitido que los equipos médicos en el Perú se degraden sin control, limitando la capacidad de respuesta hospitalaria, reduciendo la eficiencia en el acceso a tecnologías críticas y profundizando la inequidad en la atención de salud. | ODS 17 |
 
 
@@ -16,9 +16,9 @@ Complete:
 
 ### Tabla de conceptos y términos
 | BLOQUE | ESPAÑOL | INGLÉS / SINÓNIMOS | TÉRMINO CONTROLADO O DE ÍNDICE | APORTE A LA CONSULTA |
-| --- | --- | --- | --- | --- |
-| Actor / sistema | [Escriba aquí] | [Escriba aquí] | [MeSH / IEEE / INSPEC / Author Keyword] | [Escriba aquí] |
-| Brecha / fenómeno | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
+| :---: | :---: | :---: | :---: | :---: |
+| Actor / sistema | Sistema Peruano de Farmacovigilancia y Tecnovigilancia (DIGEMID/CENAFyT); áreas de ingeniería clínica/biomédica hospitalaria | Medical device vigilance system; clinical/biomedical engineering department; Health Technology Management (HTM) | MeSH: Product Surveillance, Postmarketing; Equipment and Supplies; IEEE keyword: Medical device management | Define el sistema institucional y el área técnica responsables |
+| Brecha / fenómeno | Resistencia institucional y falta de capacidades técnicas para adoptar gestión de tecnología biomédica | Institutional resistance; technology adoption barriers; technical capacity gap | MeSH: Organizational Innovation; Diffusion of Innovation; IEEE keyword: Technology adoption barriers, Health technology management | Es el núcleo organizacional-técnico del problema |
 | Contexto | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
 | Consecuencia | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | 
 
