@@ -1,5 +1,3 @@
-import pandas as pd
-
 #Funciones de validacion
 def validacion_string(dato:str,str_validos:tuple[str]|str = None,nombre:str=None)->None:
     """Valida si el dato es un string y si es string valida si tiene un caracter ademas del espacio, puede validar tambien si el dato pertenece a un string o conjunto de strings.
@@ -57,9 +55,7 @@ def crear_informacion_tabla(columnas_tabla)->dict:
     while True:    
         for columna in columnas_tabla:
             contenido:str = input(f'\nQue informacion desea agregar a la fila {fila} de la columna "{columna}"?:\n')
-            if columna not in informacion_tabla:
-                informacion_tabla[columna] = []
-                informacion_tabla[columna].append(contenido)
+            informacion_tabla[columna] = [contenido] if informacion_tabla.get(columna,None) == None else informacion_tabla[columna].append(contenido)
 
         if not continuar(mensaje='Quieres agregar otra fila a tu tabla?(s/n): '):
             break
