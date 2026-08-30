@@ -10,7 +10,7 @@ Para usar el programa ejecuten el codigo de main.py
 
 main.py requiere de funciones_programa.py para ejecutarse
 
-Si no quieres descargarlo simplemente crea un archivo .py de cada uno con sus mismos nombres y contenidos
+Si no quieres descargar la carpeta Creador_de_tablas simplemente crea un archivo .py de cada uno con sus mismos nombres y contenidos
 
 
 Si todavia no te deja pues dimelo xd
