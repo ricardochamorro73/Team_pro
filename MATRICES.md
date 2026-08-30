@@ -31,7 +31,7 @@ Complete:
 
 | FECHA | BASE | CONSULTA EXACTA | FILTROS | REVISADOS / INCLUIDOS | RESP. | 
 | --- | --- | --- | --- | --- | --- |
-| [dd/mm/aaaa]| [Base 1] | [Pegue la consulta]  | [Escriba aquí]  | [n / n]  | [Nombre] |
+| 23/08/2004| [Base 1] | [Pegue la consulta]  | [Escriba aquí]  | [n / n]  | [Nombre] |
 | [dd/mm/aaaa]| [Base 2] | [Pegue la consulta]  | [Escriba aquí]  | [n / n]  | [Nombre] |
 | [dd/mm/aaaa]| [Base 3] | [Pegue la consulta]  | [Escriba aquí]  | [n / n]  | [Nombre] |
 | [dd/mm/aaaa]| [Base 4] | [Pegue la consulta]  | [Escriba aquí]  | [n / n]  | [Nombre] |
