@@ -3,7 +3,7 @@
 ### Pregunta y términos
 
 | Equipo | Carrera | Reto o tema inicial | ODS candidato |
-| --- | --- | --- | --- |
+| Team Pro | Ingeniería Biomédica | --- | ODS 17 |
 | [N.º / nombre] | [Escriba aquí] | [Todavía sin proponer una solución] | [Puede cambiar tras revisar evidencia |
 
 ### Pregunta de evidencia
