@@ -8,14 +8,15 @@ from funciones_programa import (
     
 )
 
-def mostrar_opciones()->None:
-    print('Este programa tiene 5 opciones:')
+def mostrar_opciones(opciones_programa:dict)->None:
+    print(f'Este programa tiene {len(opciones_programa)} opciones:')
     print('A: Crear una tabla')
     print('B: Agregar informacion a una tabla existente')
     print('C: Modificar la informacion de una tabla existente')
     print('D: Convertir tabla a formato markdown')
 
 #PROGRAMA
+
 opciones:dict = {
     'A': crear_nueva_tabla,
     'B': agregar_informacion_a_la_tabla_csv,
@@ -23,7 +24,8 @@ opciones:dict = {
     'D': convertir_la_tabla_a_markdown,
 }
 
-mostrar_opciones()
+
+mostrar_opciones(opciones)
 
 while True:
     #Asegurarse que la persona no escoja otras opciones a parte de esas
