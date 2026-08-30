@@ -4,7 +4,7 @@
 
 | Equipo | Carrera | Reto o tema inicial | ODS candidato |
 | --- | --- | --- | --- | 
-| Team Pro | Ingeniería Biomédica | --- | ODS 17 |
+| Team Pro | Ingeniería Biomédica | La ausencia de un sistema nacional de gestión biomédica y tecnovigilancia que ha permitido que los equipos médicos en el Perú se degraden sin control, limitando la capacidad de respuesta hospitalaria, reduciendo la eficiencia en el acceso a tecnologías críticas y profundizando la inequidad en la atención de salud. | ODS 17 |
 
 
 
