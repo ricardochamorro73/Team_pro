@@ -6,4 +6,6 @@ Para instalar tabulate y pandas prueba con:
 - python -m pip install pandas tabulate
 - Si no te deja prueba con: python3 -m pip install pandas tabulate
 
+Para usar el programa ejecuten el codigo de main.py
+
 Si todavia no te deja pues dimelo xd
