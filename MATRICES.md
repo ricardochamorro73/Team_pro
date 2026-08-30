@@ -11,7 +11,7 @@
 ### Pregunta de evidencia
 Complete: 
 
-| ¿Qué evidencia describe ____________________ en ____________________ dentro de ____________________, cuáles son sus causas o consecuencias y qué cambio se relaciona con ____________________? |
+| ¿Cómo puede un sistema nacional de gestión biomédica y tecnovigilancia contribuir al control de la obsolescencia de los equipos médicos, garantizar la accesibilidad ágil a tecnologías hospitalarias y mejorar la equidad en la atención de salud en el Perú? |
 | --- |
 
 ### Tabla de conceptos y términos
