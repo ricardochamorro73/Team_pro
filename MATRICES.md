@@ -11,7 +11,7 @@
 ### Pregunta de evidencia
 Complete: 
 
-| ¿Cómo puede un sistema nacional de gestión biomédica y tecnovigilancia contribuir al control de la obsolescencia de los equipos médicos, garantizar la accesibilidad ágil a tecnologías hospitalarias y mejorar la equidad en la atención de salud en el Perú? |
+| ¿Qué evidencia describe la obsolescencia de los equipos biomédicos en los hospitales públicos del Perú dentro de la gestión tecnológica hospitalaria, cuáles son sus causas o consecuencias y qué cambio se relaciona con la implementación de un sistema nacional de tecnovigilancia y mantenimiento inteligente? |
 | --- |
 
 ### Tabla de conceptos y términos
