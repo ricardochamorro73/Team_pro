@@ -1,3 +1,32 @@
+# MATRICES
+## Hoja de trabajo 1 
+### Pregunta y términos
+
+| Equipo | Carrera | Reto o tema inicial | ODS candidato |
+| --- | --- | --- | --- |
+| [N.º / nombre] | [Escriba aquí] | [Todavía sin proponer una solución] | [Puede cambiar tras revisar evidencia |
+
+### Pregunta de evidencia
+Complete: 
+
+| ¿Qué evidencia describe ____________________ en ____________________ dentro de ____________________, cuáles son sus causas o consecuencias y qué cambio se relaciona con ____________________? |
+| --- |
+
+### Tabla de conceptos y términos
+| BLOQUE | ESPAÑOL | INGLÉS / SINÓNIMOS | TÉRMINO CONTROLADO O DE ÍNDICE | APORTE A LA CONSULTA |
+| --- | --- | --- | --- | --- |
+| Actor / sistema | [Escriba aquí] | [Escriba aquí] | [MeSH / IEEE / INSPEC / Author Keyword] | [Escriba aquí] |
+| Brecha / fenómeno | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
+| Contexto | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
+| Consecuencia | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | 
+
+### Consultas exactas que se ejecutarán
+| BASE | CONSULTA COMPLETA | FILTROS PLANIFICADOS | RESPONSABLE |
+| --- | --- | --- | --- |
+| [PubMed / IEEE Xplore / Scopus / otra] | [Copie exactamente la consulta, incluidos AND, OR, comillas y paréntesis] | [Año, tipo, campo;justifique] | [Nombre] |
+| [Base 2] | [Copie exactamente la consulta] | [Escriba aquí] | [Nombre] |
+
+## Hoja de trabajo 2 
 ## 🔎 **Registro de búsqueda y triage**
 
 | FECHA | BASE | CONSULTA EXACTA | FILTROS | REVISADOS / INCLUIDOS | RESP. | 
@@ -24,6 +53,7 @@
 
 ---
 
+## Hoja de trabajo 3
 ## 📷 **Matriz de evidencia**
 
 | ID / AUTOR | REFERENCIA Y ENLACE | METODO Y CONTEXTO | HALLAZGO + LIMITACIÓN | IMPLICACIÓN PARA EL RETO ODS |
@@ -36,6 +66,41 @@
 | E6 • [Nombre] | [Dato oficial o fuente adicional] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
 | E7 • [Nombre] | [Opcional] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
 
+### Síntesis de evidencia
+| COINCIDENCIAS | CONTRADICCIONES / LÍMITES | VACÍOS PRIORITARIOS |
+| --- | --- | --- |
+| [Qué sostienen varias fuentes] | [Qué difiere y por qué] | [Qué debe investigarse o validarse después |
+
+## Hoja de trabajo 4
+
+### Decisión ODS y formulación del reto
+| Secuencia obligatoria: brecha y afectados → meta cuyo resultado cambiaría → indicador global → medida próxima del proyecto. El indicador ODS no es la misma cosa que una métrica técnica del prototipo. |
+| --- |
+
+### Ficha ODS
+| CAMPO | RESPUESTA DEL EQUIPO | FUENTE / ENLACE |
+| --- | --- | --- | 
+| Reto respaldado (sin solución) | [Escriba aquí] | [Fuente(s) que lo sostienen]
+| ODS principal | [Número y nombre] | [ONU] |
+| Meta específica | [Código y texto pertinente] | [ONU / CEPAL] |
+| Indicador global | [Código y nombre] | [ONU / INEI] |
+| Evidencia local o contextual | [Dato que conecta la brecha con la meta] | [INEI / fuente oficial / artículo] |
+| Medida próxima del proyecto | [Dato alcanzable: tiempo, costo, error, cobertura, acceso, merma, etc.] | [Cómo se observaría] | 
+| ODS secundario (opcional) | [Solo si existe relación demostrable] | [Fuente] |
+| Dato faltante | [Qué falta medir o validar] | [Plan para obtenerlo] |
+
+### Justificación de la decisión
+| PREGUNTA DE CONTROL | RESPUESTA |
+| --- | --- | 
+| ¿Qué resultado de la meta cambiaría si el reto se comprendiera o redujera? | [Escriba aquí] |
+| ¿Qué evidencia demuestra la relación y evita elegir el ODS solo por afinidad con la carrera? | [Escriba aquí] |
+| ¿Qué no puede afirmar todavía el equipo? | [Escriba aquí] |
+
+### Fórmula para el reto inicial
+| **Complete sin presuponer una solución:** [Actor o sistema] enfrenta [brecha verificable] en [contexto], lo que produce [consecuencia respaldada]. El equipo necesita comprender [causa o vacío] para contribuir a la meta [código], observando inicialmente [medida próxima]. |
+| --- |
+
+## Hoja de trabajo 5
 ## 📜 **Brief de cinco párrafos**
 
 | PÁRRAFO / RESPONSABLE | FUNCIÓN Y CONTENIDO OBLIGATORIO | TEXTO |
