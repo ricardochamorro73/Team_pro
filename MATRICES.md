@@ -19,8 +19,8 @@ Complete:
 | :---: | :---: | :---: | :---: | :---: |
 | Actor / sistema | Sistema Peruano de Farmacovigilancia y Tecnovigilancia (DIGEMID/CENAFyT); áreas de ingeniería clínica/biomédica hospitalaria | Medical device vigilance system; clinical/biomedical engineering department; Health Technology Management (HTM) | MeSH: Product Surveillance, Postmarketing; Equipment and Supplies; IEEE keyword: Medical device management | Define el sistema institucional y el área técnica responsables |
 | Brecha / fenómeno | Resistencia institucional y falta de capacidades técnicas para adoptar gestión de tecnología biomédica | Institutional resistance; technology adoption barriers; technical capacity gap | MeSH: Organizational Innovation; Diffusion of Innovation; IEEE keyword: Technology adoption barriers, Health technology management | Es el núcleo organizacional-técnico del problema |
-| Contexto | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] |
-| Consecuencia | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | [Escriba aquí] | 
+| Contexto | Hospitales públicos y privados del Perú; sistema de salud fragmentado en subsectores | Peru; public hospitals; low-resource healthcare setting | MeSH: Peru [Geographic]; Public Hospitals | Delimita el ámbito institucional y geográfico |
+| Consecuencia | Inoperatividad de equipos médicos, subregistro de incidentes adversos, retraso diagnóstico | Equipment downtime; underreporting of adverse events; diagnostic delay  | MeSH: Equipment Failure; Patient Safety | Acota el impacto medible que se busca documentar | 
 
 ### Consultas exactas que se ejecutarán
 | BASE | CONSULTA COMPLETA | FILTROS PLANIFICADOS | RESPONSABLE |
