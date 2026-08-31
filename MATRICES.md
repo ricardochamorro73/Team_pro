@@ -80,16 +80,16 @@
 | --- |
 
 ### Ficha ODS
-| CAMPO | RESPUESTA DEL EQUIPO | FUENTE / ENLACE |
-| --- | --- | --- | 
-| Reto respaldado (sin solución) | [Escriba aquí] | [Fuente(s) que lo sostienen]
-| ODS principal | [Número y nombre] | [ONU] |
-| Meta específica | [Código y texto pertinente] | [ONU / CEPAL] |
-| Indicador global | [Código y nombre] | [ONU / INEI] |
-| Evidencia local o contextual | [Dato que conecta la brecha con la meta] | [INEI / fuente oficial / artículo] |
-| Medida próxima del proyecto | [Dato alcanzable: tiempo, costo, error, cobertura, acceso, merma, etc.] | [Cómo se observaría] | 
-| ODS secundario (opcional) | [Solo si existe relación demostrable] | [Fuente] |
-| Dato faltante | [Qué falta medir o validar] | [Plan para obtenerlo] |
+| Campo | Respuesta del equipo | Fuente / enlace |
+|---|---|---|
+| Reto respaldado (sin solución) | Los establecimientos de salud del sistema peruano (MINSA, EsSalud, sanidades FF.AA./FF.PP. y sector privado) mantienen sistemas de información clínica fragmentados y no interoperables, lo que impide una visión única del paciente y afecta la continuidad de su atención | E1, E3, E4, E5 |
+| ODS principal | ODS 3 — Salud y bienestar | ONU |
+| Meta específica | Meta 3.8 — "Lograr la cobertura sanitaria universal, incluida la protección contra los riesgos financieros, el acceso a servicios de salud esenciales de calidad y el acceso a medicamentos y vacunas inocuos, eficaces, asequibles y de calidad para todos" | ONU / OPS |
+| Indicador global | 3.8.1 — Cobertura de los servicios de salud esenciales | ONU |
+| Evidencia local o contextual | El 32% de la población peruana (10.8 millones de personas) enfrenta pobreza multidimensional por carencias conjuntas en salud, educación, vivienda y conectividad; el informe oficial INEI 2016-2025 mide estas 8 dimensiones a nivel nacional | E6, E7 |
+| Medida próxima del proyecto | Propuesta a evaluar por el equipo, p. ej.: *porcentaje de historias clínicas de un establecimiento piloto que logran exportarse en formato HL7 FHIR válido*, o *tiempo promedio ahorrado al evitar la repetición de exámenes en una consulta de referencia* — `[el equipo debe elegir y justificar una]` | Cómo se observaría: registro de exportaciones exitosas / tiempo de atención en el prototipo |
+| ODS secundario (opcional) | ODS 17 — Alianzas para lograr los objetivos, meta 17.18 (mejorar el apoyo a la creación de capacidad... para aumentar la disponibilidad de datos oportunos, fiables y de alta calidad) | ONU |
+| Dato faltante | Porcentaje real de establecimientos de salud (especialmente rurales o en zonas de pobreza multidimensional) con HCE interoperable vía RENHICE; costo/tiempo perdido por duplicidad a nivel nacional | Plan: solicitar datos abiertos a MINSA-OGTI/RENHICE o a SUSALUD, o levantar una mini-encuesta a establecimientos piloto |
 
 ### Justificación de la decisión
 | Pregunta de control | Respuesta |
