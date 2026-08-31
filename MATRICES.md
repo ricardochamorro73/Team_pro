@@ -4,7 +4,7 @@
 
 | Equipo | Carrera | Reto o tema inicial | ODS candidato |
 | :---: | :---: | :---: | :---: | 
-| Team Pro | Ingeniería Biomédica | Resistencia institucional y falta de capacidades técnicas para adoptar un sistema nacional de gestión de tecnología biomédica y tecnovigilancia. | ODS 3 |
+| Team Pro | Ingeniería Biomédica | Resistencia institucional y falta de capacidades técnicas para adoptar un sistema nacional de gestión de tecnología biomédica y tecnovigilancia. | ODS 3 (secundarias: ODS 16 y 17) |
 
 
 
