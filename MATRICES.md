@@ -32,11 +32,11 @@
 
 | Fecha | Base | Consulta exacta | Filtros | Revisados / incluidos | Resp. |
 |---|---|---|---|---|---|
-| 30/08/2026 | Búsqueda exploratoria (prensa especializada + repositorios abiertos) | interoperabilidad historia clínica electrónica Perú fragmentación | Últimos 6 años (2020–2026) | 15 / 7 | `[Nombre]` |
-| 30/08/2026 | PubMed | ("electronic health records"[MeSH] OR "health information interoperability") AND (Peru) AND (fragmentation OR "health information exchange") | 2019–2026 | 9 / 0 — no aparecen artículos Perú-específicos indexados en PubMed; los resultados son de interoperabilidad de HCE en general (EE.UU., Europa). El estudio peruano más relevante (Mauricio et al., 2024) está indexado en Scopus, no en PubMed | `[Nombre]` |
-| 30/08/2026 | IEEE Xplore | ("interoperability" AND "electronic health record" AND "Peru") | 2019–2026 | 6 / 1 — confirma el mismo estudio ya usado en la matriz (Mauricio et al., 2024, iJOE, con arquitectura basada en HL7 FHIR y blockchain) | `[Nombre]` |
-| 30/08/2026 | Scopus | TITLE-ABS-KEY(interoperability AND "electronic health record" AND Peru) | 2019–2026 | Sin acceso institucional a Scopus desde aquí — pendiente de correr con tu cuenta UPCH; el estudio de Mauricio et al. (2024) sí está indexado ahí | `[Nombre]` |
-| 30/08/2026 | SciELO / Google Scholar | interoperabilidad salud digital Perú historia clínica | 2019–2026, solo Perú/LatAm | 7 / 1 — confirma la revisión de TecnoHumanismo (Lima, 2022) ya incluida en la matriz | `[Nombre]` |
+| 30/08/2026 | Búsqueda exploratoria (prensa especializada + repositorios abiertos) | interoperabilidad historia clínica electrónica Perú fragmentación | Últimos 6 años (2020–2026) | 15 / 7 | Joel David Mendoza Choquepata  |
+| 30/08/2026 | PubMed | ("electronic health records"[MeSH] OR "health information interoperability") AND (Peru) AND (fragmentation OR "health information exchange") | 2019–2026 | 9 / 0 — no aparecen artículos Perú-específicos indexados en PubMed; los resultados son de interoperabilidad de HCE en general (EE.UU., Europa). El estudio peruano más relevante (Mauricio et al., 2024) está indexado en Scopus, no en PubMed | Sergio Andre Garcia Zapata |
+| 30/08/2026 | IEEE Xplore | ("interoperability" AND "electronic health record" AND "Peru") | 2019–2026 | 6 / 1 — confirma el mismo estudio ya usado en la matriz (Mauricio et al., 2024, iJOE, con arquitectura basada en HL7 FHIR y blockchain) | 	Ailen Rosario Baldera Echevarria |
+| 30/08/2026 | Scopus | TITLE-ABS-KEY(interoperability AND "electronic health record" AND Peru) | 2019–2026 | Sin acceso institucional a Scopus desde aquí — pendiente de correr con tu cuenta UPCH; el estudio de Mauricio et al. (2024) sí está indexado ahí | Anthony Sebastian Matos Tapia |
+| 30/08/2026 | SciELO / Google Scholar | interoperabilidad salud digital Perú historia clínica | 2019–2026, solo Perú/LatAm | 7 / 1 — confirma la revisión de TecnoHumanismo (Lima, 2022) ya incluida en la matriz | Ricardo Valentino Chamorro Perez |
 
 ---
 
