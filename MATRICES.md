@@ -4,13 +4,13 @@
 
 | Equipo | Carrera | Reto o tema inicial | ODS candidato |
 | :---: | :---: | :---: | :---: | 
-| Team Pro | Ingeniería Biomédica | La ausencia de un sistema nacional de gestión biomédica y tecnovigilancia que ha permitido que los equipos médicos en el Perú se degraden sin control, limitando la capacidad de respuesta hospitalaria, reduciendo la eficiencia en el acceso a tecnologías críticas y profundizando la inequidad en la atención de salud. | ODS 3 |
+| Team Pro | Ingeniería Biomédica |Existen brechas en la gestión, mantenimiento y seguimiento de los equipos biomédicos en los establecimientos de salud del Perú, lo que puede afectar su disponibilidad, seguridad y uso oportuno durante la atención de los pacientes. | ODS 3 |
 
 
 
 ### Pregunta de evidencia
 
-| ¿Qué evidencia describe la obsolescencia de los equipos biomédicos en los hospitales públicos del Perú dentro de la gestión tecnológica hospitalaria, cuáles son sus causas o consecuencias y qué cambio se relaciona con la implementación de un sistema nacional de tecnovigilancia y mantenimiento inteligente? |
+| ¿Qué evidencia describe las dificultades relacionadas con la gestión, mantenimiento, disponibilidad y vigilancia de los equipos biomédicos en los establecimientos de salud del Perú, cuáles son sus principales causas o consecuencias y qué aspectos deberían fortalecerse para mejorar su seguimiento y seguridad? |
 | --- |
 
 ### Tabla de conceptos y términos
