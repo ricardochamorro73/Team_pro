@@ -25,8 +25,8 @@ Complete:
 ### Consultas exactas que se ejecutarán
 | BASE | CONSULTA COMPLETA | FILTROS PLANIFICADOS | RESPONSABLE |
 | --- | --- | --- | --- |
-| [PubMed / IEEE Xplore / Scopus / otra] | [Copie exactamente la consulta, incluidos AND, OR, comillas y paréntesis] | [Año, tipo, campo;justifique] | [Nombre] |
-| [Base 2] | [Copie exactamente la consulta] | [Escriba aquí] | [Nombre] |
+| PubMed / MEDLINE | ("health technology management" OR "medical equipment management") AND ("institutional resistance" OR "technical capacity" OR "technology adoption") AND Peru | Años 2019–2026; artículos y revisiones | [Nombre] |
+| IEEE Xplore | ("biomedical equipment management" OR "medical device surveillance") AND ("adoption barriers" OR "institutional") AND (Peru OR "developing country") | Años 2019–2026; conference papers y journals; tema "Health informatics / biomedical engineering" | [Nombre] |
 
 ## Hoja de trabajo 2 
 ## 🔎 **Registro de búsqueda y triage**
@@ -45,14 +45,14 @@ Complete:
 
 | ID | TÍTULO CORTO / AÑO | TIPO DE FUENTE | DECISIÓN | JUSTIFICACIÓN | 
 | --- | --- | --- | --- | --- |
-| S1 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Jutificar decisión] | 
-| S2 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Escriba aquí] |
-| S3 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Escriba aquí] |
-| S4 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Escriba aquí] |
-| S5 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Escriba aquí] |
-| S6 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Escriba aquí] |
-| S7 | [Escriba aquí]  | [Artículo / revisión / dato oficial / norma] | [Incluir / excluir] | [Escriba aquí] |
-
+| S1 | "El Rol de la Tecnología en la Gestión de la Salud en Hospitales Públicos" (SAGA, 2025)  | Revisión científica (revista multidisciplinaria) | Incluir | Documenta explícitamente "resistencia institucional" y "escasa inversión" como barreras a la adopción tecnológica hospitalaria en la región | 
+| S2 | Blog USIL, "La inoperatividad de los equipos médicos..." (2026)  | Artículo periodístico-técnico con entrevista a experto | Incluir | Explica que la inoperatividad se debe a deficiencias de gestión técnica, no solo de presupuesto; testimonio de director de carrera de Ing. Biomédica |
+| S3 | Gestión.pe, "Biomedicina en el Perú..." (2023)  | Nota periodística con entrevista a docente UPCH | Incluir | Confirma, desde la propia UPCH, la brecha institucional en el desarrollo de la ingeniería clínica en el país |
+| S4 | DIGEMID/CENAFyT, Boletín de Farmacovigilancia y Tecnovigilancia (dic. 2024 / jun. 2025)  | Fuente oficial (boletín regulatorio) | Incluir | Es el propio regulador reconociendo retos pendientes tras 20 años del sistema; da cifras de notificaciones SIADM 2016-2024 |
+| S5 | "Incidentes adversos asociados a dispositivos médicos en el Hospital María Auxiliadora, 2024" (ALICIA-CONCYTEC)  | Estudio/tesis de repositorio académico |Incluir | Evidencia empírica a nivel de un hospital público peruano, dentro del rango de 6 años |
+| S6 | "Notificación de probabilidad de incidentes adversos a dispositivos médicos, INSN San Borja, 2020-2022" (ALICIA-CONCYTEC) | Estudio/tesis de repositorio académico | Incluir como complementaria | Segundo caso hospitalario peruano; permite comparar dos establecimientos distintos |
+| S7 | INEI, "Informe Técnico: Evolución de los Indicadores de Pobreza Multidimensional, 2016-2025" | Dato oficial (INEI/MIDIS) | Incluir | Fuente base proporcionada; contextualiza la brecha de salud a nivel nacional |
+| S8 | Manual de evaluación de tecnologías sanitarias, IETS Colombia | Manual institucional | Excluir de la matriz de evidencia | Corresponde a otro país (Colombia); útil solo como referencia comparativa opcional |
 ---
 
 ## Hoja de trabajo 3
