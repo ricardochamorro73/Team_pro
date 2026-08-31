@@ -69,9 +69,9 @@
 
 
 ### Síntesis de evidencia
-| COINCIDENCIAS | CONTRADICCIONES / LÍMITES | VACÍOS PRIORITARIOS |
-| --- | --- | --- |
-| [Qué sostienen varias fuentes] | [Qué difiere y por qué] | [Qué debe investigarse o validarse después |
+| Coincidencias | Contradicciones / límites | Vacíos prioritarios |
+|---|---|---|
+| Todas las fuentes técnicas y normativas (E1, E3, E4, E5) coinciden en que el sistema de salud peruano está fragmentado en subsectores (MINSA, EsSalud, sanidades FF.AA./FF.PP., privado) sin una historia clínica única, y que el estándar adoptado para resolverlo es HL7 FHIR | Las fuentes institucionales (E4, E5) presentan 2025 como un "hito" de validación técnica, pero ninguna ofrece todavía una métrica de cobertura poblacional real (% de establecimientos interoperando). La solución técnica más concreta (E1, blockchain + FHIR) sigue siendo un prototipo, no una implementación nacional | (1) No hay un dato público que cruce el mapa de pobreza multidimensional (INEI, E6) con el mapa real de establecimientos que ya interoperan vía RENHICE; (2) falta evidencia cuantitativa reciente sobre costo/tiempo perdido por duplicidad de historias clínicas a nivel nacional; (3) no existe todavía una línea base numérica del indicador 3.8.1 asociada específicamente a la fragmentación informática |
 
 ## Hoja de trabajo 4
 
