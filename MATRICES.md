@@ -4,7 +4,7 @@
 
 | Equipo | Carrera | Reto o tema inicial | ODS candidato |
 | :---: | :---: | :---: | :---: | 
-| Team Pro | Ingeniería Biomédica |Existen brechas en la gestión, mantenimiento y seguimiento de los equipos biomédicos en los establecimientos de salud del Perú, lo que puede afectar su disponibilidad, seguridad y uso oportuno durante la atención de los pacientes. | ODS 3 |
+| Team Pro | Ingeniería Biomédica | Resistencia institucional y falta de capacidades técnicas para adoptar un sistema nacional de gestión de tecnología biomédica y tecnovigilancia. | ODS 3 |
 
 
 
@@ -19,7 +19,7 @@
 | Actor / sistema | Sistema Peruano de Farmacovigilancia y Tecnovigilancia (DIGEMID/CENAFyT); áreas de ingeniería clínica/biomédica hospitalaria | Medical device vigilance system; clinical/biomedical engineering department; Health Technology Management (HTM) | MeSH: Product Surveillance, Postmarketing; Equipment and Supplies; IEEE keyword: Medical device management | Define el sistema institucional y el área técnica responsables |
 | Brecha / fenómeno | Resistencia institucional y falta de capacidades técnicas para adoptar gestión de tecnología biomédica | Institutional resistance; technology adoption barriers; technical capacity gap | MeSH: Organizational Innovation; Diffusion of Innovation; IEEE keyword: Technology adoption barriers, Health technology management | Es el núcleo organizacional-técnico del problema |
 | Contexto | Hospitales públicos y privados del Perú; sistema de salud fragmentado en subsectores | Peru; public hospitals; low-resource healthcare setting | MeSH: Peru [Geographic]; Public Hospitals | Delimita el ámbito institucional y geográfico |
-| Consecuencia | Inoperatividad de equipos médicos, subregistro de incidentes adversos, retraso diagnóstico | Equipment downtime; underreporting of adverse events; diagnostic delay  | MeSH: Equipment Failure; Patient Safety | Acota el impacto medible que se busca documentar | 
+| Consecuencia | Inoperatividad de equipos médicos, subregistro de incidentes adversos, retraso diagnóstico | Equipment downtime; underreporting of adverse events; diagnostic delay | MeSH: Equipment Failure; Patient Safety | Acota el impacto medible que se busca documentar |
 
 ### Consultas exactas que se ejecutarán
 | BASE | CONSULTA COMPLETA | FILTROS PLANIFICADOS | RESPONSABLE |
@@ -32,7 +32,7 @@
 
 | Fecha | Base | Consulta exacta | Filtros | Revisados / incluidos | Resp. |
 |---|---|---|---|---|---|
-| 30/08/2026 | Búsqueda exploratoria (prensa especializada + repositorios abiertos) | interoperabilidad historia clínica electrónica Perú fragmentación | Últimos 6 años (2020–2026) | 15 / 7 | Joel David Mendoza Choquepata  |
+| 30/08/2026 | Búsqueda exploratoria (prensa especializada + repositorios abiertos) | resistencia institucional gestión tecnología biomédica tecnovigilancia Perú | Últimos 6 años (2020–2026) | 18 / 7 | Joel David Mendoza Choquepata  |
 | 30/08/2026 | PubMed | ("electronic health records"[MeSH] OR "health information interoperability") AND (Peru) AND (fragmentation OR "health information exchange") | 2019–2026 | 9 / 0 — no aparecen artículos Perú-específicos indexados en PubMed; los resultados son de interoperabilidad de HCE en general (EE.UU., Europa). El estudio peruano más relevante (Mauricio et al., 2024) está indexado en Scopus, no en PubMed | Sergio Andre Garcia Zapata |
 | 30/08/2026 | IEEE Xplore | ("interoperability" AND "electronic health record" AND "Peru") | 2019–2026 | 6 / 1 — confirma el mismo estudio ya usado en la matriz (Mauricio et al., 2024, iJOE, con arquitectura basada en HL7 FHIR y blockchain) | 	Ailen Rosario Baldera Echevarria |
 | 30/08/2026 | Scopus | TITLE-ABS-KEY(interoperability AND "electronic health record" AND Peru) | 2019–2026 | Sin acceso institucional a Scopus desde aquí — pendiente de correr con tu cuenta UPCH; el estudio de Mauricio et al. (2024) sí está indexado ahí | Anthony Sebastian Matos Tapia |
