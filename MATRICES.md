@@ -24,8 +24,8 @@
 ### Consultas exactas que se ejecutarán
 | BASE | CONSULTA COMPLETA | FILTROS PLANIFICADOS | RESPONSABLE |
 | --- | --- | --- | --- |
-| PubMed / MEDLINE | ("health technology management" OR "medical equipment management") AND ("institutional resistance" OR "technical capacity" OR "technology adoption") AND Peru | Años 2019–2026; artículos y revisiones | [Nombre] |
-| IEEE Xplore | ("biomedical equipment management" OR "medical device surveillance") AND ("adoption barriers" OR "institutional") AND (Peru OR "developing country") | Años 2019–2026; conference papers y journals; tema "Health informatics / biomedical engineering" | [Nombre] |
+| PubMed / MEDLINE | ("health technology management" OR "medical equipment management") AND ("institutional resistance" OR "technical capacity" OR "technology adoption") AND Peru | Años 2019–2026; artículos y revisiones | Luis Angel Cordova Orrillo |
+| IEEE Xplore | ("biomedical equipment management" OR "medical device surveillance") AND ("adoption barriers" OR "institutional") AND (Peru OR "developing country") | Años 2019–2026; conference papers y journals; tema "Health informatics / biomedical engineering" | 	Ailen Rosario Baldera Echevarria |
 
 ## Hoja de trabajo 2 
 ## 🔎 **Registro de búsqueda y triage**
