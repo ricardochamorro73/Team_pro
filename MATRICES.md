@@ -92,11 +92,11 @@
 | Dato faltante | [Qué falta medir o validar] | [Plan para obtenerlo] |
 
 ### Justificación de la decisión
-| PREGUNTA DE CONTROL | RESPUESTA |
-| --- | --- | 
-| ¿Qué resultado de la meta cambiaría si el reto se comprendiera o redujera? | [Escriba aquí] |
-| ¿Qué evidencia demuestra la relación y evita elegir el ODS solo por afinidad con la carrera? | [Escriba aquí] |
-| ¿Qué no puede afirmar todavía el equipo? | [Escriba aquí] |
+| Pregunta de control | Respuesta |
+|---|---|
+| ¿Qué resultado de la meta cambiaría si el reto se comprendiera o redujera? | Mejoraría la cobertura efectiva de servicios de salud esenciales (indicador 3.8.1), porque los pacientes recibirían atención continua sin repetir exámenes ni perder información al cambiar de establecimiento |
+| ¿Qué evidencia demuestra la relación y evita elegir el ODS solo por afinidad con la carrera? | Los datos oficiales de INEI (E6) y el índice de pobreza multidimensional (E7) muestran que la falta de acceso a salud y conectividad afecta a millones de peruanos, y las fuentes técnicas (E1, E4, E5) confirman que la fragmentación de las HCE es una causa estructural vigente de esa brecha, no solo un tema técnico aislado |
+| ¿Qué no puede afirmar todavía el equipo? | Que la interoperabilidad por sí sola reduzca la pobreza multidimensional, ni cuál es el porcentaje real de establecimientos que hoy interoperan fuera del piloto de la Conectatón |
 
 ### Fórmula para el reto inicial
 | **Complete sin presuponer una solución:** [Actor o sistema] enfrenta [brecha verificable] en [contexto], lo que produce [consecuencia respaldada]. El equipo necesita comprender [causa o vacío] para contribuir a la meta [código], observando inicialmente [medida próxima]. |
