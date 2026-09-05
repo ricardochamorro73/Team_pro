@@ -30,6 +30,9 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 
 | PATENTE / ENLACE | PRIORIDAD - SOLICITANTE - ESTADO VISIBLE | FUNCIÓN | PRINCIPIO TÉCNICO | CONDICIONES / DEPENDENCIAS | LIMITACIÓN O BRECHA |
 | --- | --- | --- | --- | --- | --- |
+| Patente 1 [N + título + enlace] | [datos mínimos] | [resultados técnicos] | [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
+| Patente 2 [N + título + enlace] | [datos mínimos] | [resultados técnicos] | [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
+| Patente 3 [N + título + enlace] | [datos mínimos] | [resultados técnicos] | [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
 
 
 
