@@ -28,6 +28,11 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 | 5   | **EP4340709A1**     | *Systems and methods for real-time systematic health care*                             | **G16H 20/00**                                    | Sistema informático aplicado a la atención y seguimiento de la salud en tiempo real. ([Google Patents][5])             |
 | 6   | **EP4632761A4**     | *Method for controlling a medical system, computer program and device*                 | **G16H 40/60**, G16H 30/20, G16H 50/20, A61B 8/00 | Control de sistemas médicos y procesamiento de información procedente de equipos de diagnóstico. ([Google Patents][6]) |
 
+| PATENTE / ENLACE | PRIORIDAD - SOLICITANTE - ESTADO VISIBLE | FUNCIÓN | PRINCIPIO TÉCNICO | CONDICIONES / DEPENDENCIAS | LIMITACIÓN O BRECHA |
+| --- | --- | --- | --- | --- | --- |
+
+
+
 [1]: https://patents.google.com/patent/ES2927525T3/en?utm_source=chatgpt.com "ES2927525T3 - System to manage the use of medical devices - Google Patents"
 [2]: https://patents.google.com/patent/EP3103099A4/en?utm_source=chatgpt.com "EP3103099A4 - Device management system - Google Patents"
 [3]: https://patents.google.com/patent/US20250006361A1/en?utm_source=chatgpt.com "US20250006361A1 - Computer Implemented Method and System for Controlling an Implantable Medical Device - Google Patents"
