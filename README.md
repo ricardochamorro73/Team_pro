@@ -23,3 +23,4 @@ Somos el **Team_pro** del curso **Procesos de innovación en ingeniería**, conf
 Este README resume quiénes somos, qué roles nos hemo distribuido y qué nos motiva.
 
 [Ver documento de Matrices](./MATRICES.md)
+[Ver documento de Patente](./PATENTE.md)
