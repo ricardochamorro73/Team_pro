@@ -3,7 +3,7 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 ## A. Foco técnico y estrategia
 | EQUIPO | CARRERA | RETO / NECESIDAD | ODS RELACIONADO |
 | --- | --- | --- | --- |
-| [N.° / nombre] | [Escriba aquí] | [Sin anticipar una solución] | [ODS / meta] |
+| [N.° / nombre] | Ingeniería Biomédica | [Sin anticipar una solución] | [ODS / meta] |
 | FUNCIÓN | OBJETO | CONTEXTO | RESTRICCIÓN |
 | [verbo técnico] | [sobre qué actúa] | [dónde / condición] | [costo, red, portabilidad, etc.] |
 ## Términos y consultas ejecutadas
