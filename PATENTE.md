@@ -1,3 +1,24 @@
+# INSTRUMENTO 1 · BÚSQUEDA Y COMPARACIÓN DE TRES PATENTES
+Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No se requiere una ficha adicional por cada documento.
+## A. Foco técnico y estrategia
+| EQUIPO | CARRERA | RETO / NECESIDAD | ODS RELACIONADO |
+| --- | --- | --- | --- |
+| [N.° / nombre] | [Escriba aquí] | [Sin anticipar una solución] | [ODS / meta] |
+| FUNCIÓN | OBJETO | CONTEXTO | RESTRICCIÓN |
+| [verbo técnico] | [sobre qué actúa] | [dónde / condición] | [costo, red, portabilidad, etc.] |
+## Términos y consultas ejecutadas
+| PLATAFORMA | CONSULTA EXACTA | FILTROS / IPC-CPC SI APLICA | FECHA | RESPONSABLE |
+| --- | --- | --- | --- | --- | 
+| [Google Patents / Espacenet / PATENTSCOPE] | [Copie la consulta completa] | [Opcional si ayudó] | [dd/mm] | [Nombre] |
+| [Google Patents / Espacenet / PATENTSCOPE] | [Copie la consulta completa] | [Opcional si ayudó] | [dd/mm] | [Nombre] |
+| [Google Patents / Espacenet / PATENTSCOPE] | [Copie la consulta completa] | [Opcional si ayudó] | [dd/mm] | [Nombre] |
+
+
+
+
+
+
+# PATENTES POR VER
 | N.º | Patente             | Título                                                                                 | CIP                                               | Área de salud                                                                                                          |
 | --- | ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1   | **ES2927525T3**     | *Sistema para gestionar el uso de dispositivos médicos*                                | **G16H 40/40**, A61B 90/90                        | Gestión y operación de dispositivos médicos. ([Google Patents][1])                                                     |
