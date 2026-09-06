@@ -3,9 +3,9 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 ## A. Foco técnico y estrategia
 | EQUIPO | CARRERA | RETO / NECESIDAD | ODS RELACIONADO |
 | --- | --- | --- | --- |
-| 1 / Team_pro] | Ingeniería Biomédica | [Sin anticipar una solución] | [ODS / meta] |
+| Team_pro | Ingeniería Biomédica | [Sin anticipar una solución] | ODS 3 |
 | FUNCIÓN | OBJETO | CONTEXTO | RESTRICCIÓN |
-| [verbo técnico] | [sobre qué actúa] | [dónde / condición] | [costo, red, portabilidad, etc.] |
+| Gestionar y vigilar | Equipos Médicos | Hospitales con acceso a nuestro sistema | Colaboracion por parte de los hospitales y su capacitacion para usar nuestro sistema |
 ## Términos y consultas ejecutadas
 | PLATAFORMA | CONSULTA EXACTA | FILTROS / IPC-CPC SI APLICA | FECHA | RESPONSABLE |
 | --- | --- | --- | --- | --- | 
