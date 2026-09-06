@@ -18,7 +18,7 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 
 | PATENTE / ENLACE | PRIORIDAD - SOLICITANTE - ESTADO VISIBLE | FUNCIÓN | PRINCIPIO TÉCNICO | CONDICIONES / DEPENDENCIAS | LIMITACIÓN O BRECHA |
 | --- | --- | --- | --- | --- | --- |
-| Patente 1 — ES2927525T3 — Sistema para gestionar el uso de dispositivos médicos - https://patents.google.com/patent/ES2927525T3/en)] | [datos mínimos] | [resultados técnicos] | [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
+| Patente 1 — ES2927525T3 — Sistema para gestionar el uso de dispositivos médicos - https://patents.google.com/patent/ES2927525T3/en)] | Prioridad: 20/05/2015  Solicitante: THD SpA  Estado: Activa | Registrar los ciclos de uso y restringir/bloquear el funcionamiento de aparatos médicos según los límites preestablecidos.| [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
 | Patente 2 - EP3103099A4 - Device management system -  https://patents.google.com/patent/EP3103099A4/en?oq=EP3103099A4 | [datos mínimos] | [resultados técnicos] | [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
 | Patente 3 - CN101833290B - Portable and programmable medical device system - https://patents.google.com/patent/CN101833290B/en?oq=CN101833290B | [datos mínimos] | [resultados técnicos] | [energía, datos, insumos, infraestructura...] | [qué queda abierto] |
 
