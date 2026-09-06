@@ -3,7 +3,7 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 ## A. Foco técnico y estrategia
 | EQUIPO | CARRERA | RETO / NECESIDAD | ODS RELACIONADO |
 | --- | --- | --- | --- |
-| Team_pro | Ingeniería Biomédica | [Sin anticipar una solución] | ODS 3 |
+| Team_pro | Ingeniería Biomédica | La mala condición de los equipos médicos en los hospitales peruanos | ODS 3 |
 | FUNCIÓN | OBJETO | CONTEXTO | RESTRICCIÓN |
 | Gestionar y vigilar | Equipos Médicos | Hospitales con acceso a nuestro sistema | Colaboracion por parte de los hospitales y su capacitacion para usar nuestro sistema |
 ## Términos y consultas ejecutadas
