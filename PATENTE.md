@@ -3,9 +3,9 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 ## A. Foco técnico y estrategia
 | EQUIPO | CARRERA | RETO / NECESIDAD | ODS RELACIONADO |
 | --- | --- | --- | --- |
-| Team_pro | Ingeniería Biomédica | La mala condición de los equipos médicos en los hospitales peruanos | ODS 3 |
+| Team_pro | Ingeniería Biomédica | Dificultades organizacionales y técnicas en establecimientos de salud para gestionar el mantenimiento, la disponibilidad, el inventario y el seguimiento de tecnovigilancia de equipos biomédicos en el Perú. | ODS 3 (Salud y bienestar) |
 | FUNCIÓN | OBJETO | CONTEXTO | RESTRICCIÓN |
-| Gestionar y vigilar | Equipos Médicos | Hospitales con acceso a nuestro sistema | Colaboracion por parte de los hospitales y su capacitacion para usar nuestro sistema |
+| Gestionar y vigilar | Equipos Médicos | Establecimientos de salud y entornos hospitalarios | Bajo costo de despliegue, interfaz simplificada y operabilidad en entornos con conectividad limitada. |
 ## Términos y consultas ejecutadas
 | PLATAFORMA | CONSULTA EXACTA | FILTROS / IPC-CPC SI APLICA | FECHA | RESPONSABLE |
 | --- | --- | --- | --- | --- | 
