@@ -27,10 +27,10 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 
 | BRECHA / LIMITACION OBSERVADA | PREGUNTA DE DESK  RESEARCH | FUENTE SECUNDARIA A CONSULTAR | QUÉ NECESITAMOS APRENDER | RESPONSABLE |
 | --- | --- | --- | --- | --- |
-| [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
-| [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
-| [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
-| [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
+| La Patente 2 requiere registro manual en cada etapa del ciclo del equipo, lo que puede saturar al personal de salud en hospitales con alta demanda. | ¿Cuáles son los principales obstáculos operativos que enfrenta el personal de salud y los ingenieros clínicos al documentar de manera manual el mantenimiento de los equipos? | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
+|La Patente 1 bloquea el uso por cantidad de ciclos, pero no genera alertas automáticas de tecnovigilancia tras detectarse un evento adverso o fallo recurrente. | ¿Qué formatos y plazos exige formalmente la DIGEMID / CENAFyT para el reporte normativo de incidentes adversos en dispositivos médicos? | Articulo / norma / dato oficial / reporte | Los requisitos mínimos de información que una herramienta tecnológica debe recopilar para automatizar reportes de tecnovigilancia. | nombre |
+| La Patente 3 requiere infraestructura de acoplamiento de hardware específica, lo cual es inviable para la gran variedad de marcas y modelos en hospitales públicos. | ¿Cuál es el grado de heterogeneidad (variedad de marcas, modelos y antigüedad) de los equipos biomédicos en los hospitales del sector público peruano? | Articulo / norma / dato oficial / reporte  | Identificar si la solución debe ser independiente del hardware (operar a través de software o etiquetas estándar como QR/NFC) con el fin de ser compatible con cualquier dispositivo. | nombre |
+| Ninguna de las patentes ofrece un sistema integral de bajo costo que unifique inventario, control de fallas y estado operativo para hospitales con recursos limitados. | ¿Qué porcentaje de establecimientos de salud públicos en el Perú cuenta con un área formal o presupuesto asignado para la gestión de tecnología biomédica? | Articulo / norma / dato oficial / reporte | Evaluar la factibilidad económica y la necesidad de una plataforma que sea económica y de fácil implementación. | nombre |
 
 # Sintesis del equipo
 | PREGUNTA | RESPUESTA BREVE DEL EQUIPO | RESPUESTA BREVE DEL EQUIPO | 
