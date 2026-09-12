@@ -1,1 +1,13 @@
-<img width="482" height="177" alt="image" src="https://github.com/user-attachments/assets/be24e50d-ac88-4439-ad60-e590e456a21a" />
+| Brecha / pregunta | Tipo de fuente | DOI/PMID o publicación de patente | Evidencia extraída | Hallazgo / actor / supuesto |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+
+
+| Patrón convergente | Tensión | Por qué importa | Que falta validar 
+|---|---|---|---|
+| | | | |
+| | | | |
