@@ -40,19 +40,3 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 |---|---|
 | ¿Qué patrón aparece al comparar las tres patentes? | Las tres soluciones presentan mecanismos orientados al seguimiento, monitoreo o gestión de información relacionada con equipos y dispositivos. Sin embargo, existen diferencias en las condiciones necesarias para su funcionamiento, como disponibilidad de datos, mantenimiento, infraestructura y conectividad. |
 | ¿Qué vacío técnico o contextual parece más importante investigar antes de hablar con usuarios? | Es necesario conocer cómo se gestionan actualmente los equipos biomédicos en los hospitales del Perú, qué información se registra sobre su estado y mantenimiento, qué criterios se utilizan para determinar su reemplazo y qué diferencias existen en la disponibilidad tecnológica entre establecimientos de salud. |
-
-Hoja de trabajo | Registro de usuario, contexto y
-hallazgo
-| Brecha / pregunta | Tipo de fuente | DOI/PMID o publicación de patente | Evidencia extraída | Hallazgo / actor / supuesto |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-
-
-| Patrón convergente | Tensión | Por qué importa | Que falta validar 
-|---|---|---|---|
-| | | | |
-| | | | |
