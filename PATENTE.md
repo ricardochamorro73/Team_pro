@@ -26,29 +26,19 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 | Patente 6 — US11404145B2 — Medical machine time-series event data processor - https://patents.google.com/patent/US11404145B2/en| 27/11/2019 - GE Precision Healthcare LLC - Activa (Concedida) | Mantenimiento predictivo de equipos médicos mediante procesamiento continuo de series de tiempo para detectar y predecir fallas inminentes de la máquina. | Modelos de inteligencia artificial y aprendizaje automático (machine learning) entrenados con datos operacionales de telemetría continuos extraídos directamente del hardware médico. | Exige que el equipo médico posea sensores integrados para extracción de telemetría continua, capacidad de cómputo avanzada y conexión estable a servidores para el procesamiento de IA. | Diseñada para equipos de alta gama propietarios con conectividad continua y alta infraestructura digital. Es inviable para entornos con conectividad limitada (offline) y no abarca la tecnovigilancia reglamentaria. |
 # INSTRUMENTO 2 - BRECHAS Y PREGUNTAS DE DESK RESEARCH
 
-| BRECHA / LIMITACION OBSERVADA | PREGUNTA DE DESK  RESEARCH | FUENTE SECUNDARIA A CONSULTAR | QUÉ NECESITAMOS APRENDER | RESPONSABLE |
-| --- | --- | --- | --- | --- |
-| La Patente 2 requiere registro manual en cada etapa del ciclo del equipo, lo que puede saturar al personal de salud en hospitales con alta demanda. | ¿Cuáles son los principales obstáculos operativos que enfrenta el personal de salud y los ingenieros clínicos al documentar de manera manual el mantenimiento de los equipos? | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
-|La Patente 1 bloquea el uso por cantidad de ciclos, pero no genera alertas automáticas de tecnovigilancia tras detectarse un evento adverso o fallo recurrente. | ¿Qué formatos y plazos exige formalmente la DIGEMID / CENAFyT para el reporte normativo de incidentes adversos en dispositivos médicos? | Articulo / norma / dato oficial / reporte | Los requisitos mínimos de información que una herramienta tecnológica debe recopilar para automatizar reportes de tecnovigilancia. | nombre |
-| La Patente 3 requiere infraestructura de acoplamiento de hardware específica, lo cual es inviable para la gran variedad de marcas y modelos en hospitales públicos. | ¿Cuál es el grado de heterogeneidad (variedad de marcas, modelos y antigüedad) de los equipos biomédicos en los hospitales del sector público peruano? | Articulo / norma / dato oficial / reporte  | Identificar si la solución debe ser independiente del hardware (operar a través de software o etiquetas estándar como QR/NFC) con el fin de ser compatible con cualquier dispositivo. | nombre |
-| Ninguna de las patentes ofrece un sistema integral de bajo costo que unifique inventario, control de fallas y estado operativo para hospitales con recursos limitados. | ¿Qué porcentaje de establecimientos de salud públicos en el Perú cuenta con un área formal o presupuesto asignado para la gestión de tecnología biomédica? | Articulo / norma / dato oficial / reporte | Evaluar la factibilidad económica y la necesidad de una plataforma que sea económica y de fácil implementación. | nombre |
-
-# Sintesis del equipo
-| PREGUNTA | RESPUESTA BREVE DEL EQUIPO | RESPUESTA BREVE DEL EQUIPO | 
-| --- | --- | --- | 
-| [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
-| [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
-| Brecha / pregunta | Tipo de fuente | DOI/PMID o publicación de patente | Evidencia extraída | Hallazgo / actor / supuesto |
+| BRECHA / LIMITACIÓN OBSERVADA | PREGUNTA DE DESK RESEARCH | FUENTE SECUNDARIA A CONSULTAR | QUÉ NECESITAMOS APRENDER | RESPONSABLE |
 |---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Las soluciones revisadas requieren conocer el estado de los equipos para realizar una gestión adecuada. | ¿Qué información se utiliza actualmente para evaluar el estado y funcionamiento de los equipos biomédicos en los hospitales? | Artículos y revisiones científicas; manuales técnicos | Variables utilizadas para conocer el estado, funcionamiento y condición de los equipos. | Ailen Rosario Baldera Echevarria |
+| Las soluciones revisadas dependen de procesos de mantenimiento para conservar la disponibilidad de los equipos. | ¿Qué estrategias de mantenimiento se utilizan para reducir las fallas y el tiempo de inoperatividad de los equipos médicos hospitalarios? | Artículos y revisiones científicas; manuales técnicos; normas y guías | Tipos de mantenimiento, frecuencia, indicadores y factores asociados al tiempo de inoperatividad. | Joel David Mendoza Choquepata  |
+| La gestión del ciclo de vida requiere criterios para determinar cuándo un equipo debe mantenerse, renovarse o retirarse. | ¿Qué criterios se utilizan para determinar la obsolescencia, reemplazo o retiro de los equipos médicos hospitalarios? | Artículos y revisiones científicas; normas y guías; reportes técnicos | Vida útil, desempeño, seguridad, fallas, costos y otros criterios utilizados para decidir el reemplazo. | Sergio André García Zapata|
+| La disponibilidad de equipos médicos puede variar entre establecimientos y regiones con diferentes niveles de recursos. | ¿Qué diferencias existen en la disponibilidad y distribución de equipos médicos entre los establecimientos de salud del Perú? | Datos oficiales; reportes sectoriales; documentos del MINSA | Diferencias de disponibilidad, distribución y acceso a tecnologías médicas entre establecimientos y regiones. | Luis Angel Cordova Orrillo |
+| La integración de información entre diferentes establecimientos puede depender de la interoperabilidad de sus sistemas. | ¿Qué estándares y condiciones permiten integrar información relacionada con equipos médicos entre diferentes sistemas hospitalarios? | Artículos y revisiones; normas; documentación técnica | Estándares de interoperabilidad, intercambio de datos y condiciones necesarias para conectar sistemas hospitalarios. | Ricardo Valentino Chamorro Pérez |
+| Las soluciones tecnológicas pueden depender de infraestructura, conectividad y disponibilidad de información para funcionar de manera continua. | ¿Qué infraestructura tecnológica y condiciones de conectividad requieren los sistemas de gestión y monitoreo de equipos biomédicos en hospitales? | Artículos científicos; documentación técnica; reportes sectoriales | Requisitos de conectividad, almacenamiento, sistemas de información e infraestructura necesarios para su funcionamiento. | Anthony Sebastian Matos Tapia |
+## Síntesis del equipo
 
+| PREGUNTA | RESPUESTA BREVE DEL EQUIPO |
+|---|---|
+| ¿Qué patrón aparece al comparar las tres patentes? | Las tres soluciones presentan mecanismos orientados al seguimiento, monitoreo o gestión de información relacionada con equipos y dispositivos. Sin embargo, existen diferencias en las condiciones necesarias para su funcionamiento, como disponibilidad de datos, mantenimiento, infraestructura y conectividad. |
+| ¿Qué vacío técnico o contextual parece más importante investigar antes de hablar con usuarios? | Es necesario conocer cómo se gestionan actualmente los equipos biomédicos en los hospitales del Perú, qué información se registra sobre su estado y mantenimiento, qué criterios se utilizan para determinar su reemplazo y qué diferencias existen en la disponibilidad tecnológica entre establecimientos de salud. |
 
-| Patrón convergente | Tensión | Por qué importa | Que falta validar 
-|---|---|---|---|
-| | | | |
-| | | | |
 
