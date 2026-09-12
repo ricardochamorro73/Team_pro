@@ -8,9 +8,4 @@
 | Las patentes revisadas no reúnen en un solo sistema el inventario, mantenimiento, fallas y disponibilidad de los equipos. | ¿Qué problemas existen actualmente en los establecimientos públicos del Perú respecto al mantenimiento, reposición y gestión de los equipos biomédicos? | MINSA / DGIEM / reportes y planes de equipamiento y mantenimiento | Conocer la situación actual y justificar la necesidad de una plataforma de bajo costo y fácil implementación. | Sergio André García Zapata |
 
 
-## Síntesis del equipo
 
-| PREGUNTA | RESPUESTA BREVE DEL EQUIPO |
-|---|---|
-| ¿Qué patrón aparece al comparar las tres patentes? | Las tres soluciones presentan mecanismos orientados al seguimiento, monitoreo o gestión de información relacionada con equipos y dispositivos. Sin embargo, existen diferencias en las condiciones necesarias para su funcionamiento, como disponibilidad de datos, mantenimiento, infraestructura y conectividad. |
-| ¿Qué vacío técnico o contextual parece más importante investigar antes de hablar con usuarios? | Es necesario conocer cómo se gestionan actualmente los equipos biomédicos en los hospitales del Perú, qué información se registra sobre su estado y mantenimiento, qué criterios se utilizan para determinar su reemplazo y qué diferencias existen en la disponibilidad tecnológica entre establecimientos de salud. |
