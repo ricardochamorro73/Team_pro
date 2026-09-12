@@ -26,3 +26,5 @@ Este README resume quiénes somos, qué roles nos hemo distribuido y qué nos mo
 |[Ver documento de Matrices](./MATRICES.md)|
 |:---:|
 |[Ver documento de Patente](./PATENTE.md)|
+|:---:|
+|[Ver documento de Instrumento 2](./Instrumento.md)|
