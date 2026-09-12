@@ -14,3 +14,11 @@
 | ¿Cómo mejorar el registro y seguimiento del mantenimiento de los equipos biomédicos? | Se necesita una herramienta que permita registrar de manera sencilla el mantenimiento, estado y disponibilidad de cada equipo. | MINSA / normas de gestión y mantenimiento | Registro de mantenimientos, estado del equipo y disponibilidad. | Nombre |
 | ¿Qué información debería tener el sistema para apoyar la tecnovigilancia? | El sistema debería guardar los datos del equipo y de las fallas o incidentes para facilitar su seguimiento y posterior reporte. | DIGEMID / CENAFyT | Datos de identificación del equipo e información del incidente. | Nombre |
 | ¿Cómo solucionar los problemas relacionados con equipos antiguos y de diferentes marcas? | El sistema debería poder utilizarse con diferentes equipos y permitir conocer su antigüedad, estado, mantenimiento y disponibilidad. | MINSA / DGIEM / planes de equipamiento | Marca, modelo, antigüedad, estado, mantenimiento y disponibilidad. | Nombre |
+
+
+## Síntesis del equipo
+
+| PREGUNTA | RESPUESTA BREVE DEL EQUIPO |
+|---|---|
+| ¿Qué patrón aparece al comparar las tres patentes? | Las tres soluciones presentan mecanismos orientados al seguimiento, monitoreo o gestión de información relacionada con equipos y dispositivos. Sin embargo, existen diferencias en las condiciones necesarias para su funcionamiento, como disponibilidad de datos, mantenimiento, infraestructura y conectividad. |
+| ¿Qué vacío técnico o contextual parece más importante investigar antes de hablar con usuarios? | Es necesario conocer cómo se gestionan actualmente los equipos biomédicos en los hospitales del Perú, qué información se registra sobre su estado y mantenimiento, qué criterios se utilizan para determinar su reemplazo y qué diferencias existen en la disponibilidad tecnológica entre establecimientos de salud. |
