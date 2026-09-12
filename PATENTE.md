@@ -38,5 +38,17 @@ Este instrumento reúne la estrategia de búsqueda y la matriz de patentes. No s
 | --- | --- | --- | 
 | [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
 | [Derivada del Instrumento 1] | Pregunta de investigación | Articulo / norma / dato oficial / reporte | dato, condición o criterio | nombre |
+| Brecha / pregunta | Tipo de fuente | DOI/PMID o publicación de patente | Evidencia extraída | Hallazgo / actor / supuesto |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
+
+| Patrón convergente | Tensión | Por qué importa | Que falta validar 
+|---|---|---|---|
+| | | | |
+| | | | |
 
