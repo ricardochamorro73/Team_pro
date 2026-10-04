@@ -7,7 +7,7 @@
 Somos el **Team_pro** del curso **Procesos de innovación en ingeniería**, conformado por estudiantes de la carrera de Ingeniería Biomédica.
 ---
 ## 📸 **Fotografía del Equipo**
-<img width="1312" height="923" alt="WhatsApp Image 2026-08-28 at 12 46 39 PM" src="https://github.com/user-attachments/assets/f03300a0-a111-4c54-80c9-3755119392d9" />
+<img width="1280" height="853" alt="WhatsApp Image 2026-09-29 at 14 06 06" src="https://github.com/user-attachments/assets/0a6543c6-b1ee-480a-85f4-bded9e1748ab" />
 
 ## 👥 **Integrantes del Equipo**
 | Foto | Nombre | Rol | Intereses |
