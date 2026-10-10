@@ -23,7 +23,7 @@ Entre 4 y 6 participantes de 2-3 establecimientos públicos de salud de nivel I-
 
 **Asistente de notas:** Luis Angel Cordova Orrillo
 
-**Fecha y hora:** 17 de octubre del 2026, 2:00pm - 5:30pm
+**Fecha y hora:** 19 de octubre del 2026, 2:00pm - 5:30pm
 
 **Tiempo:** 30 - 40 minutos aproximadamente.
 
