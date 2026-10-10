@@ -32,7 +32,7 @@ Entre 4 y 6 participantes de 2-3 establecimientos públicos de salud de nivel I-
 # Introducción
 
 Buenos tardes. Somos estudiantes de Ingeniería Biomédica y formamos parte del equipo Team_pro. Primero, queremos agradecerle por brindarnos su tiempo y apoyarnos en esta investigación.
-El objetivo de esta entrevista es conocer cómo se gestionan y mantienen actualmente los equipos biomédicos en los establecimientos públicos de salud, especialmente cómo se registra su estado, se comunican las fallas y se decide qué equipos necesitan atención prioritaria. La entrevista durará aproximadamente entre 35 y 45 minutos.
+El objetivo de esta entrevista es conocer cómo se gestionan y mantienen actualmente los equipos biomédicos en los establecimientos públicos de salud, especialmente cómo se registra su estado, se comunican las fallas y se decide qué equipos necesitan atención prioritaria. La entrevista durará aproximadamente entre 30 y 40 minutos.
 La información que nos proporcione será utilizada únicamente con fines académicos para nuestro proyecto. Trataremos sus respuestas de manera confidencial y no incluiremos información que permita identificarlo personalmente en la presentación de los resultados.
 Antes de comenzar, le explicaremos el consentimiento informado para que pueda revisarlo y resolver cualquier duda. Su participación es voluntaria y puede decidir no responder alguna pregunta. Finalmente, quisiéramos solicitar su autorización para grabar el audio de la entrevista, únicamente para facilitar el registro y análisis de sus respuestas. Si no está de acuerdo con la grabación, respetaremos su decisión.
 
