@@ -1,21 +1,21 @@
 # Guía de entrevista
 
-**Datos de la investigación:**
+## Datos de la investigación:
 
-*Objetivo general:*
+### Objetivo general:
 
 Comprender cómo se registra, supervisa y gestiona actualmente el mantenimiento, la disponibilidad, las fallas y el inventario de los equipos biomédicos en establecimientos públicos de salud de nivel I--II, identificando las dificultades, los criterios de priorización y las condiciones técnicas y organizacionales que deben considerarse para mejorar su seguimiento.
 
-*Objetivos específicos:*
+### Objetivos específicos:
 
 1. Describir quiénes participan en la gestión de los equipos biomédicos, qué información registran y cómo la utilizan para conocer  su condición y decidir qué atender primero.
 2. Identificar las dificultades y necesidades del personal para reportar fallas, conocer la disponibilidad de los equipos y coordinar su mantenimiento, considerando recursos, infraestructura y conectividad.
 
-*Muestra de participantes:*
+## Muestra de participantes:
 
 Entre 4 y 6 participantes de 2--3 establecimientos públicos de salud de nivel I--II. Incluir, de ser posible, 2--3 personas responsables de mantenimiento o gestión de equipos (ingeniería/tecnología biomédica, mantenimiento o personal técnico) y 2--3 usuarios clínicos que operen los equipos (enfermería, medicina u otro personal asistencial). La selección dependerá de los roles existentes en cada establecimiento. Muestra exploratoria, no representativa a nivel nacional.
 
-**Datos del Proyecto:**
+## Datos del Proyecto:
 
 *Nombre de proyecto:* Gestión y Mantenimiento de Equipos Biomédicos en el Perú
 *Moderador:* Ricardo Valentino Chamorro Pérez
@@ -25,6 +25,7 @@ Entre 4 y 6 participantes de 2--3 establecimientos públicos de salud de nivel I
 *Modalidad:* Presencial o virtual, según la disponibilidad del participante.
 
 # Introducción
+
 Buenos tardes. Somos estudiantes de Ingeniería Biomédica y formamos parte del equipo Team_pro. Primero, queremos agradecerle por brindarnos su tiempo y apoyarnos en esta investigación.
 El objetivo de esta entrevista es conocer cómo se gestionan y mantienen actualmente los equipos biomédicos en los establecimientos públicos de salud, especialmente cómo se registra su estado, se comunican las fallas y se decide qué equipos necesitan atención prioritaria. La entrevista durará aproximadamente entre 35 y 45 minutos.
 La información que nos proporcione será utilizada únicamente con fines académicos para nuestro proyecto. Trataremos sus respuestas de manera confidencial y no incluiremos información que permita identificarlo personalmente en la presentación de los resultados.
@@ -37,7 +38,7 @@ Antes de comenzar, le explicaremos el consentimiento informado para que pueda re
 M: Para comenzar, nos gustaría conocer un poco sobre usted, sus funciones y su experiencia con los equipos biomédicos en el establecimiento. No hay respuestas correctas o incorrectas; nos interesa conocer su experiencia y cómo se desarrolla el trabajo en la práctica. No necesitamos nombres de pacientes ni información clínica identificable.
 Las preguntas de sondeo son opcionales; úselas solo cuando ayuden a aclarar o profundizar la respuesta.
 
-**Preguntas preliminares principales y de sondeo**
+## Preguntas preliminares principales y de sondeo
 
 M: Primero hablaremos de su rol y de cómo se organiza actualmente el trabajo con los equipos.
 
@@ -113,4 +114,5 @@ Sondeo opcional: ¿Qué tendría que tener en cuenta una mejora para que realmen
 # Cierre
 
 M: Muchas gracias por su tiempo y por compartir su experiencia. Sus respuestas nos ayudarán a comprender mejor la situación actual y a identificar qué aspectos necesitan investigarse o mejorarse. ¿Hay algo importante sobre la gestión o el mantenimiento de equipos biomédicos que no le hayamos preguntado y que le gustaría añadir? Si luego necesitamos aclarar algún punto, ¿sería posible contactarle nuevamente por medio acordado? Le recordamos que utilizaremos la información para el trabajo académico y respetaremos lo acordado en el consentimiento informado. Muchas gracias nuevamente.
+
 (Fin de la sesión)
