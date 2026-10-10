@@ -13,16 +13,21 @@ Comprender cómo se registra, supervisa y gestiona actualmente el mantenimiento,
 
 ## Muestra de participantes:
 
-Entre 4 y 6 participantes de 2--3 establecimientos públicos de salud de nivel I-II. Incluir, de ser posible, 2-3 personas responsables de mantenimiento o gestión de equipos (ingeniería/tecnología biomédica, mantenimiento o personal técnico) y 2-3 usuarios clínicos que operen los equipos (enfermería, medicina u otro personal asistencial). La selección dependerá de los roles existentes en cada establecimiento. Muestra exploratoria, no representativa a nivel nacional.
+Entre 4 y 6 participantes de 2-3 establecimientos públicos de salud de nivel I-II. Incluir, de ser posible, 2-3 personas responsables de mantenimiento o gestión de equipos (ingeniería/tecnología biomédica, mantenimiento o personal técnico) y 2-3 usuarios clínicos que operen los equipos (enfermería, medicina u otro personal asistencial). La selección dependerá de los roles existentes en cada establecimiento. Muestra exploratoria, no representativa a nivel nacional.
 
 ## Datos del Proyecto:
 
-*Nombre de proyecto:* Gestión y Mantenimiento de Equipos Biomédicos en el Perú
-*Moderador:* Ricardo Valentino Chamorro Pérez
-*Asistente de notas:* Luis Angel Cordova Orrillo
-*Fecha y hora:* 17 de octubre del 2026, 2:00pm - 5:30pm
-*Tiempo:* 30 - 40 minutos aproximadamente.
-*Modalidad:* Presencial o virtual, según la disponibilidad del participante.
+**Nombre de proyecto:** Gestión y Mantenimiento de Equipos Biomédicos en el Perú
+
+**Moderador:** Ricardo Valentino Chamorro Pérez
+
+**Asistente de notas:** Luis Angel Cordova Orrillo
+
+**Fecha y hora:** 17 de octubre del 2026, 2:00pm - 5:30pm
+
+**Tiempo:** 30 - 40 minutos aproximadamente.
+
+**Modalidad:** Presencial o virtual, según la disponibilidad del participante.
 
 # Introducción
 
