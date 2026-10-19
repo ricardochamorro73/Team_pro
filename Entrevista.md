@@ -121,3 +121,100 @@ Sondeo opcional: ¿Qué tendría que tener en cuenta una mejora para que realmen
 M: Muchas gracias por su tiempo y por compartir su experiencia. Sus respuestas nos ayudarán a comprender mejor la situación actual y a identificar qué aspectos necesitan investigarse o mejorarse. ¿Hay algo importante sobre la gestión o el mantenimiento de equipos biomédicos que no le hayamos preguntado y que le gustaría añadir? Si luego necesitamos aclarar algún punto, ¿sería posible contactarle nuevamente por medio acordado? Le recordamos que utilizaremos la información para el trabajo académico y respetaremos lo acordado en el consentimiento informado. Muchas gracias nuevamente.
 
 (Fin de la sesión)
+
+
+
+# Parte 2
+# MATRIZ DE ENTREVISTA · TEAM_PRO
+### Gestión y mantenimiento de equipos biomédicos · Semana 07
+
+> Completar una columna por participante entrevistado. Los 4 temas corresponden a los supuestos críticos del **Registro de supuestos** (Semana 06). Cada tema trae 5 preguntas, una por aspecto: **Necesidad, Dolor, Experiencia actual, Importancia, Experiencia ideal**.
+
+---
+
+## A. Matriz de registro (Descripción × Usuario)
+
+### Preguntas previas
+
+| # | Descripción | Usuario 1 (Edad) | Usuario 2 (Edad) | Usuario 3 (Edad) | Usuario 4 (Edad) | Usuario 5 (Edad) | Usuario 6 (Edad) | Usuario 7 (Edad) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ¿Cuál es su cargo o función y qué relación tiene con los equipos biomédicos? | | | | | | | |
+| 2 | ¿Cuánto tiempo lleva trabajando en este establecimiento o realizando estas funciones? | | | | | | | |
+| 3 | ¿Qué tipos de equipos biomédicos utiliza, supervisa o mantiene con mayor frecuencia? | | | | | | | |
+| 4 | Cuando necesita saber si un equipo está disponible o puede utilizarse, ¿cómo averigua su estado actualmente? | | | | | | | |
+| 5 | ¿Dónde se registra la información sobre uso, fallas, mantenimiento y reparaciones? | | | | | | | |
+
+### O1 · Responsable de mantenimiento
+
+| # | Aspecto | Descripción | Usuario 1 (Edad) | Usuario 2 (Edad) | Usuario 3 (Edad) | Usuario 4 (Edad) | Usuario 5 (Edad) | Usuario 6 (Edad) | Usuario 7 (Edad) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Necesidad | ¿Quién se encarga, normalmente, de dar seguimiento al estado y mantenimiento de los equipos en este establecimiento? | | | | | | | |
+| 2 | Dolor | ¿Qué dificultades surgen cuando nadie tiene asignada explícitamente esa responsabilidad, o cuando esa persona no está disponible? | | | | | | | |
+| 3 | Experiencia actual | En la práctica, ¿cómo se reparte hoy esa responsabilidad entre el personal del establecimiento? | | | | | | | |
+| 4 | Importancia | ¿Qué tan importante considera que sería contar con una persona o área claramente responsable del mantenimiento de los equipos? | | | | | | | |
+| 5 | Experiencia ideal | Si pudiera diseñarlo, ¿cómo debería organizarse esa responsabilidad para que funcione bien en un establecimiento como este? | | | | | | | |
+
+### O2 · Registrar vs. atender equipos
+
+| # | Aspecto | Descripción | Usuario 1 (Edad) | Usuario 2 (Edad) | Usuario 3 (Edad) | Usuario 4 (Edad) | Usuario 5 (Edad) | Usuario 6 (Edad) | Usuario 7 (Edad) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Necesidad | ¿Qué tan seguido necesita registrar información sobre el estado o uso de un equipo durante su jornada? | | | | | | | |
+| 2 | Dolor | ¿Alguna vez el tiempo que toma registrar esa información ha competido con el tiempo que necesita para atender pacientes o el equipo mismo? Cuénteme un ejemplo. | | | | | | | |
+| 3 | Experiencia actual | ¿Cómo encaja hoy el registro de esa información dentro de su rutina de trabajo? | | | | | | | |
+| 4 | Importancia | ¿Qué tan prioritario es, frente a sus demás tareas, mantener actualizado el registro de un equipo? | | | | | | | |
+| 5 | Experiencia ideal | ¿Cómo tendría que ser ese registro para que no le quite tiempo de atender a los pacientes o los equipos? | | | | | | | |
+
+### O3 · Decisión sin criterios explícitos
+
+| # | Aspecto | Descripción | Usuario 1 (Edad) | Usuario 2 (Edad) | Usuario 3 (Edad) | Usuario 4 (Edad) | Usuario 5 (Edad) | Usuario 6 (Edad) | Usuario 7 (Edad) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Necesidad | Cuando hay más de un equipo que necesita atención, ¿qué información necesita para decidir cuál atender primero? | | | | | | | |
+| 2 | Dolor | ¿Ha vivido alguna situación donde no quedó claro qué equipo debía priorizarse? ¿Qué pasó? | | | | | | | |
+| 3 | Experiencia actual | ¿Existen criterios escritos o acordados para decidir qué equipo se atiende primero, o se decide caso por caso? | | | | | | | |
+| 4 | Importancia | ¿Qué tan necesario considera contar con criterios claros y compartidos para esa decisión? | | | | | | | |
+| 5 | Experiencia ideal | ¿Cómo le gustaría que se tomara esa decisión, y quién debería participar? | | | | | | | |
+
+### O4 · Sensores, conectividad y electricidad
+
+| # | Aspecto | Descripción | Usuario 1 (Edad) | Usuario 2 (Edad) | Usuario 3 (Edad) | Usuario 4 (Edad) | Usuario 5 (Edad) | Usuario 6 (Edad) | Usuario 7 (Edad) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Necesidad | ¿Los equipos que usa cuentan con sensores o alguna forma automática de reportar su estado, o todo se revisa manualmente? | | | | | | | |
+| 2 | Dolor | ¿La conexión a internet o la electricidad le han impedido alguna vez registrar o consultar el estado de un equipo? Cuénteme qué pasó. | | | | | | | |
+| 3 | Experiencia actual | ¿Qué tan estable es, en un día normal, la conectividad y la electricidad en las áreas donde trabaja con estos equipos? | | | | | | | |
+| 4 | Importancia | ¿Qué tan importante es para usted que una posible mejora funcione aunque no haya internet o falle la luz? | | | | | | | |
+| 5 | Experiencia ideal | Si la conexión fuera intermitente, ¿cómo le gustaría poder seguir registrando y consultando la información de los equipos? | | | | | | | |
+
+---
+
+## B. Guía de preguntas (lista limpia, sin columnas de usuario)
+
+| # | TEMA (SUPUESTO) | ASPECTO | PREGUNTA |
+| --- | --- | --- | --- |
+| 1–5 | Preguntas previas | — | Ver sección A |
+| 1 | O1 · Responsable de mantenimiento | Necesidad | ¿Quién se encarga, normalmente, de dar seguimiento al estado y mantenimiento de los equipos en este establecimiento? |
+| 2 | O1 · Responsable de mantenimiento | Dolor | ¿Qué dificultades surgen cuando nadie tiene asignada explícitamente esa responsabilidad, o cuando esa persona no está disponible? |
+| 3 | O1 · Responsable de mantenimiento | Experiencia actual | En la práctica, ¿cómo se reparte hoy esa responsabilidad entre el personal del establecimiento? |
+| 4 | O1 · Responsable de mantenimiento | Importancia | ¿Qué tan importante considera que sería contar con una persona o área claramente responsable del mantenimiento de los equipos? |
+| 5 | O1 · Responsable de mantenimiento | Experiencia ideal | Si pudiera diseñarlo, ¿cómo debería organizarse esa responsabilidad para que funcione bien en un establecimiento como este? |
+| 6 | O2 · Registrar vs. atender equipos | Necesidad | ¿Qué tan seguido necesita registrar información sobre el estado o uso de un equipo durante su jornada? |
+| 7 | O2 · Registrar vs. atender equipos | Dolor | ¿Alguna vez el tiempo que toma registrar esa información ha competido con el tiempo que necesita para atender pacientes o el equipo mismo? Cuénteme un ejemplo. |
+| 8 | O2 · Registrar vs. atender equipos | Experiencia actual | ¿Cómo encaja hoy el registro de esa información dentro de su rutina de trabajo? |
+| 9 | O2 · Registrar vs. atender equipos | Importancia | ¿Qué tan prioritario es, frente a sus demás tareas, mantener actualizado el registro de un equipo? |
+| 10 | O2 · Registrar vs. atender equipos | Experiencia ideal | ¿Cómo tendría que ser ese registro para que no le quite tiempo de atender a los pacientes o los equipos? |
+| 11 | O3 · Decisión sin criterios explícitos | Necesidad | Cuando hay más de un equipo que necesita atención, ¿qué información necesita para decidir cuál atender primero? |
+| 12 | O3 · Decisión sin criterios explícitos | Dolor | ¿Ha vivido alguna situación donde no quedó claro qué equipo debía priorizarse? ¿Qué pasó? |
+| 13 | O3 · Decisión sin criterios explícitos | Experiencia actual | ¿Existen criterios escritos o acordados para decidir qué equipo se atiende primero, o se decide caso por caso? |
+| 14 | O3 · Decisión sin criterios explícitos | Importancia | ¿Qué tan necesario considera contar con criterios claros y compartidos para esa decisión? |
+| 15 | O3 · Decisión sin criterios explícitos | Experiencia ideal | ¿Cómo le gustaría que se tomara esa decisión, y quién debería participar? |
+| 16 | O4 · Sensores, conectividad y electricidad | Necesidad | ¿Los equipos que usa cuentan con sensores o alguna forma automática de reportar su estado, o todo se revisa manualmente? |
+| 17 | O4 · Sensores, conectividad y electricidad | Dolor | ¿La conexión a internet o la electricidad le han impedido alguna vez registrar o consultar el estado de un equipo? Cuénteme qué pasó. |
+| 18 | O4 · Sensores, conectividad y electricidad | Experiencia actual | ¿Qué tan estable es, en un día normal, la conectividad y la electricidad en las áreas donde trabaja con estos equipos? |
+| 19 | O4 · Sensores, conectividad y electricidad | Importancia | ¿Qué tan importante es para usted que una posible mejora funcione aunque no haya internet o falle la luz? |
+| 20 | O4 · Sensores, conectividad y electricidad | Experiencia ideal | Si la conexión fuera intermitente, ¿cómo le gustaría poder seguir registrando y consultando la información de los equipos? |
+
+---
+
+## C. Pendiente
+
+- El guion de introducción, consentimiento y cierre sigue en `Guia_de_entrevista_Team_pro.docx`; falta agregar ahí la instrucción de "resumir una idea importante" antes de cerrar (ver análisis previo).
+- Muestra objetivo: 4–6 participantes de 2–3 establecimientos de nivel I–II (ya definida en `Guia_de_entrevista_Team_pro.docx`); la matriz trae 7 columnas por si se suma un participante adicional.
