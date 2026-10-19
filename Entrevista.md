@@ -212,9 +212,3 @@ M: Muchas gracias por su tiempo y por compartir su experiencia. Sus respuestas n
 | 19 | O4 · Sensores, conectividad y electricidad | Importancia | ¿Qué tan importante es para usted que una posible mejora funcione aunque no haya internet o falle la luz? |
 | 20 | O4 · Sensores, conectividad y electricidad | Experiencia ideal | Si la conexión fuera intermitente, ¿cómo le gustaría poder seguir registrando y consultando la información de los equipos? |
 
----
-
-## C. Pendiente
-
-- El guion de introducción, consentimiento y cierre sigue en `Guia_de_entrevista_Team_pro.docx`; falta agregar ahí la instrucción de "resumir una idea importante" antes de cerrar (ver análisis previo).
-- Muestra objetivo: 4–6 participantes de 2–3 establecimientos de nivel I–II (ya definida en `Guia_de_entrevista_Team_pro.docx`); la matriz trae 7 columnas por si se suma un participante adicional.
