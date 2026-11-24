@@ -78,12 +78,6 @@ Las patentes se usan como antecedentes tecnológicos, no como prueba de eficacia
 | PAT04 · US7518502B2 | Rastrea y localiza activos con radiofrecuencia. | Exige una red de antenas y receptores, con alto costo de despliegue. |
 | PAT06 · US11404145B2 | Mantenimiento predictivo con inteligencia artificial a partir de telemetría continua. | Exige sensores integrados y conexión estable; inviable sin conectividad. |
 
-### Lo que todavía no se sabe
-
-- No hay evidencia directa, en las fuentes revisadas, de sincronización diferida aplicada específicamente al registro de equipos biomédicos.
-- No se verificó si los programas de gestión existentes ofrecen un modo sin conexión.
-- Falta saber cuántos técnicos de nivel I–II usan un teléfono propio en su trabajo (pendiente de entrevistas).
-
 ---
 
 ## Referencias de los códigos usados
