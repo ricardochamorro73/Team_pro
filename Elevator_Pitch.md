@@ -121,15 +121,6 @@ La versión B completa dura unos 3 minutos a ritmo normal (unas 440 palabras). S
 
 ---
 
-## F. Consejos de entrega (de la clase)
-
-- **Conoce a tu audiencia:** ajusta el pedido (bloque 8) a quién escucha.
-- **Sé simple y conciso:** usa palabras sencillas, sin términos técnicos.
-- **Controla tu voz y tu lenguaje corporal:** pausa después de la cifra del bloque 2.
-- **Concluye como un profesional:** termina con la frase final del bloque 8 y espera preguntas.
-
----
-
 ## Referencias de los códigos
 
 | CÓDIGO | FUENTE | ARCHIVO DEL PROYECTO |
